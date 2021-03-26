@@ -1,4 +1,3 @@
-from functools import cache
 import socket
 
 FILE = "D:\Scripts\ip.txt"
